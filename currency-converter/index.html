@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> currency Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img class="logo" src="../img/Logo-P.png" alt="logo">
+    <ul class="nav__links">
+        <li><a href="../Homepage/index.html">Home</a></li>
+        <li><a href="../Products/index.html">Products</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="../Pricing/index.html">Pricing</a></li>
+        <li><a href="../currency-converter/index.html"><b> Currency Converter </b></a></li>
+    </ul>
+    <a class="cta" href="../bg login/index.html"><button>Log In</button></a>
+</header>
+
+<div class="content">
+    <div class="container">
+        <h1>Currency Converter</h1>
+        <div class="converter">
+            <input type="number" id="amount" placeholder="Amount">
+            <select id="from">
+                <option value="USD">USD</option>
+                <option value="EUR">EUR</option>
+                <option value="GBP">GBP</option>
+            </select>
+            <select id="to">
+                <option value="USD">USD</option>
+                <option value="EUR">EUR</option>
+                <option value="GBP">GBP</option>
+            </select>
+            <button onclick="convert()">Convert</button>
+        </div>
+        <div id="result"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

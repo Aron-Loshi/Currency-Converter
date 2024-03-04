@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+li, a, button {
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    padding: 30px 10px;
+    position: fixed;
+}
+
+.logo {
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: -40px;
+}
+
+.nav__links {
+    list-style: none;
+    width: 50em;
+}
+
+.nav__links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav__links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav__links li a:hover {
+    font-size: 20px;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: #0b72fd;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    color: white;
+    width: 150px;
+    height: 45px;
+    margin-left: 500px;
+}
+
+button:hover {
+    width: 160px;
+    height: 55px;
+    transition: all 0.3s ease 0s;
+}
+
+h1{
+    color: black;
+    display: flex;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    color: #6B6E70;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+.div3{
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-top: 450px;
+}
+
+.a11{
+    width: 550px;
+    height: 550px;   
+    margin-left: 650px;
+    margin-top: -330px;
+}
+
+.div2{
+    display: flex;
+    flex-direction: row;
+}
+
+.div4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 300px;
+} 
+
+.img1{
+    width: 700px;
+    height: 700px;
+}
+
+.div5{
+    display: flex;
+    flex-direction: column;
+    padding-top: 400px;
+    padding-left: 100px;
+}  
+
+.div8{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-top: 300px;
+}
+
+.avios{
+    width: 700px;
+    height: 700px;
+    margin-left: 700px;
+    margin-top: -300px;
+}
+
+.div9{
+    display: flex;
+    flex-direction: row;
+}
+
+.div10{
+    display: flex;
+    flex-direction: column;
+    margin-top: 300px;
+} 
+
+.paypal{
+    width: 700px;
+    height: 700px;
+}
+
+.end{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 250px;
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn{
+    margin-right: 800px;
+}
+
+.cta2{
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    margin-right: 1600px;
+}
+
+.end-p{
+    color: #d1d1d1;
+}

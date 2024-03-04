@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>ic/ic_flag_dark_thin_17dp</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation/header/logged_out/desk" transform="translate(-1200.000000, -32.000000)">
+            <g id="Group-4" transform="translate(1198.000000, 29.000000)">
+                <g id="ic_flag/ic_flag_dark_thin_17dp" transform="translate(0.000000, 2.000000)">
+                    <g id="ic" transform="translate(2.000000, 1.000000)">
+                        <path d="M2.5,0 L2.5,0 C2.77614237,-5.07265313e-17 3,0.223857625 3,0.5 L3,15.5 C3,15.7761424 2.77614237,16 2.5,16 L2.5,16 C2.22385763,16 2,15.7761424 2,15.5 L2,0.5 C2,0.223857625 2.22385763,5.07265313e-17 2.5,0 Z" id="Rectangle" fill="#1b1b1b"></path>
+                        <path d="M12.5,10.5387631 C9.18614082,8.15247628 5.81385918,12.9248013 2.5,10.5387631 L2.5,2.58530223 C5.81385918,4.97134048 9.18614082,0.199015422 12.5,2.58530223 L12.5,10.5387631 Z" id="Stroke-3" stroke="#1b1b1b" stroke-linejoin="round" transform="translate(7.500000, 6.561971) scale(1, -1) translate(-7.500000, -6.561971) "></path>
+                        <path d="M0.5,15.5 L4.5,15.5" id="Path" stroke="#1b1b1b" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
